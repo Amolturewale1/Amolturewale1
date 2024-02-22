@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is amol turewale and I'm a backend develper, from ....</h2>
+<h2 align="left">Hi 👋! My name is amol turewale and I'm a backed develper, from ....</h2>
 
 ###
 
@@ -21,12 +21,24 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/amol-turewale" target="_blank">
+  <a href="www.linkedin.com/in/amol-turewale" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:amolturewale@gmail.com" target="_blank">
+  <a href="amolturewale@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/amolturewale1/amolturewale1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amolturewale1/count.svg?"  />
 </div>
 
 ###
