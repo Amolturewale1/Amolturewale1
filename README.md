@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is amol turewale and I'm a backed develper.</h2>
+<h2 align="left">Hi 👋! My name is amol turewale and I'm a backend develper.</h2>
 
 ###
 
