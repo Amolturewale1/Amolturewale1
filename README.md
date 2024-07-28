@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **java,j2ee**
 
-- 📫 How to reach me **amolturewale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
