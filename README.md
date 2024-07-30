@@ -3,11 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Amol Turewale</h1>
-<h3 align="center">I'm a backend develper.</h3>
-
-
-
-- 🌱 I’m currently learning **spring boot**
 
 - 💬 Ask me about **java,j2ee**
 
